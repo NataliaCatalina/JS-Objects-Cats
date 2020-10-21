@@ -1,0 +1,18 @@
+$blue: #00008B;
+$gray-600: #778899;
+$green: #9ACD32;
+$cyan: #BC8F8F;
+$yellow: #FFD700;
+$red: #DC143C;
+$gray-100: #D3D3D3;
+$gray-800: #708090;
+
+
+
+@import "../bootstrap-4.5.3/scss/bootstrap.scss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
